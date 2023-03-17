@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049090288728",
+    "firebase_url": "https://tic-tac-toe-32f94-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tic-tac-toe-32f94",
+    "storage_bucket": "tic-tac-toe-32f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049090288728:android:321d157253ecbd77192e2d",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049090288728-1d37u7fvfrjpdjrrajjor0s5r0orbh74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOSR3mGhgEO58riDl-zsRGziu_i6pVSRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049090288728-1d37u7fvfrjpdjrrajjor0s5r0orbh74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
